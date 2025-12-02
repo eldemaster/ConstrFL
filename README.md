@@ -117,4 +117,4 @@ These implementations explore federated learning optimization for resource-const
 
 ## License
 
-Academic research code for thesis purposes.
+MIT License (see `LICENSE` for full text).
